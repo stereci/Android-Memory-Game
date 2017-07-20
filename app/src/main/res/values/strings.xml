@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Memory Game</string>
+    <string name="title_Memory">Memory Game</string>
+    <string name="menu_option_4x4_game">EASY</string>
+</resources>
